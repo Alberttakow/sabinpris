@@ -241,8 +241,8 @@ class ExpendituresState extends ConsumerState<Expenditures> {
                               Align(
                                 alignment: Alignment.bottomRight,
                                 child: (!currentMode)
-                                    ? Image.asset('assets/2L.png')
-                                    : Image.asset('assets/2D.png'),
+                                    ? Image.asset('assets/1L.png')
+                                    : Image.asset('assets/1D.png'),
                               ),
                               Padding(
                                 padding:
@@ -294,8 +294,8 @@ class ExpendituresState extends ConsumerState<Expenditures> {
                               Align(
                                 alignment: Alignment.bottomRight,
                                 child: (!currentMode)
-                                    ? Image.asset('assets/2L.png')
-                                    : Image.asset('assets/2D.png'),
+                                    ? Image.asset('assets/3L.png')
+                                    : Image.asset('assets/3D.png'),
                               ),
                               Padding(
                                 padding:

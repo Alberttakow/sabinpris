@@ -170,7 +170,7 @@ class LongTextField extends ConsumerWidget {
             hintStyle: TextStyle(
               fontFamily: 'Montserrat',
               fontSize: 12,
-              color: (!currentMode) ? Colors.grey[300] : Colors.grey[500],
+              color: (!currentMode) ? Colors.grey[500] : Colors.grey[500],
               fontWeight: FontWeight.w400,
             ),
             enabledBorder: OutlineInputBorder(
@@ -241,7 +241,7 @@ class ShortTextField extends ConsumerWidget {
             hintStyle: TextStyle(
               fontFamily: 'Montserrat',
               fontSize: 12,
-              color: (!currentMode) ? Colors.grey[300] : Colors.grey[500],
+              color: (!currentMode) ? Colors.grey[500] : Colors.grey[500],
               fontWeight: FontWeight.w400,
             ),
             enabledBorder: OutlineInputBorder(
